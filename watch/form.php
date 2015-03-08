@@ -6,7 +6,7 @@
 <div class="alert alert-danger"><b>Notice</b> Prayernet has been postponed due to inclement weather. Stay safe and warm, and hope to see you next week!</div>
 -->
 
-<p> Thank you for Tuning in for <i>PrayerNet</i>. You can bring your prayer items to the prayer parteners
+<p> Thank you for Tuning in for <i>PrayerNet</i>. You can bring your prayer items to the prayer partners
 in any of the following ways:  </p> 
 
 <ul> 
