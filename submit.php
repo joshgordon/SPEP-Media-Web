@@ -1,4 +1,6 @@
-<p> If something is going horribly wrong, click <a href="http://www.ustream.tv/embed/11308704">here</a> to watch, or <a href="http://72.81.132.9:8000/listen.m3u">here</a> to listen.</p> 
+
+<h1>Oops</h1>
+<p>Something's gone horribly wrong, click <a href="http://www.ustream.tv/embed/11308704">here</a> to watch, or <a href="http://72.81.132.9:8000/listen.m3u">here</a> to listen.</p> 
 <?php
 //error_reporting(E_ALL);
 //ini_set('display_errors', '1');

@@ -1,9 +1,10 @@
 <h1>Video Stream</h1> 
 
-<form action="http://stream.spepmedia.com/submit.php" method="post" id="survey">
-<!-- <table border=0 cellpadding=4>
-  <tr> 
-    <td>-->
+<form action="//stream.spepmedia.com/submit.php" method="post" id="survey">
+
+<!--
+<div class="alert alert-danger"><b>Notice</b> Prayernet has been postponed due to inclement weather. Stay safe and warm, and hope to see you next week!</div>
+-->
 
 <p> Thanks for watching online. Please take a second to let us know 
     how many people are watching with you today. This will help us serve
@@ -17,9 +18,9 @@
 
 <p> If you have any issues with the webcasts, or any other comments or 
     concerns, please fill them into this box. </p> 
-<textarea name="comments" form="survey"></textarea> 
+<textarea name="comments" form="survey" class="styled"></textarea> 
 <br> 
 
 
-<button type="submit"> Watch Now</button> 
+<button class="btn btn-lg btn-primary" type="submit"> Watch Now</button> 
 </form> 
