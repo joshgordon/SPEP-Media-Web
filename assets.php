@@ -68,6 +68,15 @@ input[type="radio"] {
   margin-right: 15px; 
 }
 
+body {
+  background-color: black; 
+  color: #DDD; 
+}
+
+blockquote { 
+  background-color: #333; 
+}
+
 </style>
 
 </head>
@@ -75,7 +84,7 @@ input[type="radio"] {
 <div class="container-fluid"> 
   <div class="row"> 
     <div class="col-lg-6 col-lg-offset-3">
-      <a href="http://spepchurch.org/"><img src="//spepchurch.com/assets/images/headertop.jpg" width=100% alt="SPEP banner image" /></a>
+      <a href="http://spepchurch.org/"><img src="//stream.spepmedia.com/cross_cover.jpg" width=100% alt="SPEP banner image" /></a>
     </div>
   </div>
   <div class="row">

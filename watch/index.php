@@ -1,6 +1,6 @@
 <?php
 include "../assets.php";
-generateHeader("Video Stream", True);
+generateHeader("Prayer Net", True);
 ?> 
 <?php include "form.php"; ?> 
 
