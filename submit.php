@@ -25,7 +25,7 @@ date_default_timezone_set('America/New_York');
 $date = "'" .  date('m/d/Y h:i:s a', time()) . "'";
 
 
-$sql = "insert into netusers(ip, viewers, comment, date, media) values($v3, $v1, $v2, $date, $media);" ;
+$sql = "insert into prayernetusers(ip, viewers, comment, date, media) values($v3, $v1, $v2, $date, $media);" ;
 
  
 if($conn->query($sql) === false) {

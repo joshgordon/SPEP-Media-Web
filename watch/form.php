@@ -27,12 +27,8 @@ in attendence on your end:</p>
 <input type="radio" name="viewers" value=5>5 or more.<br />
 <input type="hidden" name="media" value="watch">
 
-<p> If you have any issues with the webcasts, or any other comments or 
-    concerns, please fill them into this box. Please leave your comments about PrayerNet itself 
-    by using the green button below labeled "Leave PrayerNet Feedback".</p>
-<p><strong>Please do not use the box below for Prayer Items, as they will not be received</strong></p>
-<textarea name="comments" form="survey" class="styled"></textarea> 
-<br> 
+Please leave your comments about PrayerNet by using the green button below labeled "Leave PrayerNet Feedback".</p>
+<!--<textarea name="comments" form="survey" class="styled"></textarea>-->
 
 
 <button class="btn btn-lg btn-primary" type="submit"> Watch Now</button> 
