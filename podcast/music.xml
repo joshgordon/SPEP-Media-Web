@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+  <channel>
+    <link>http://spepchurch.org</link>
+    <language>en-us</language>
+    <copyright>copyright 2015 SPEP Media</copyright>
+    <webMaster>spepmedia@gmail.com(SPEP Webmaster)</webMaster>
+    <managingEditor>spepmedia@gmail.com(SPEP Webmaster)</managingEditor>
+    <itunes:owner>
+      <itunes:name>SPEP Media Ministry</itunes:name>
+      <itunes:email>spepmedia@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity" />
+    </itunes:category>
+    <itunes:keywords>spep, media, ministry, severna, park, pca, dan, daniel, delaney, music</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+    <atom:link href="http://podcast.spepmedia.com/sermons.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 19 Sep 2015 22:00:02 EST</pubDate>
+    <title>SPEP Music Podcast</title>
+    <itunes:author>Severna Park EP Church</itunes:author>
+    <description>Severna Park EP Church is located in Pasadena MD. We are a PCA Church. Our website is http://spepchurch.org. Services happen at 9:30 and 11AM Sunday mornings. Links to internet feeds of our services can be found on our webpage.</description>
+    <itunes:summary>Severna Park EP Church is located in Pasadena MD. We are a PCA Church. Our website is http://spepchurch.org. Services happen at 9:30 and 11AM Sunday mornings. Links to internet feeds of our services can be found on our webpage.</itunes:summary>
+    <itunes:subtitle>A church where Jesus mends broken lives with the goodness of God, and equips us to join him in his work.</itunes:subtitle>
+    <lastBuildDate>Sat, 19 Sep 2015 22:00:02 EST</lastBuildDate>
+    <item>
+      <title>Jesus, Savior, Pilot Me</title>
+      <pubDate>Sat, 22 Aug 2015 23:00:02 EST</pubDate>
+      <itunes:order>25</itunes:order>
+      <description>Ray Milton-Vocal/Piano, Josh Gordon-Guitar, Jeremy Seep-Bass, Bob Channas-Drums. Leanna Canby. Part of the series: "".</description>
+      <itunes:summary>Ray Milton-Vocal/Piano, Josh Gordon-Guitar, Jeremy Seep-Bass, Bob Channas-Drums. Leanna Canby. Part of the series: "".</itunes:summary>
+      <itunes:subtitle>Ray Milton-Vocal/Piano, Josh Gordon-Guitar, Jeremy Seep-Bass, Bob Channas-Drums. Leanna Canby. Part of the series: "".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/Jesus%20Savior%20Pilot%20Me.mp3" type="audio/mpeg" length="196" />
+      <guid>http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/Jesus%20Savior%20Pilot%20Me.mp3</guid>
+      <itunes:duration>0:03:16</itunes:duration>
+    </item>
+    <item>
+      <title>O the Deep, Deep Love of Jesus</title>
+      <pubDate>Sat, 18 Jul 2015 13:00:02 EST</pubDate>
+      <itunes:order>24</itunes:order>
+      <description>Dan and Liz/vocals, Ray/Piano, Bass/Jim, Drums/Miles, Clarinet/Cindy. Dan Delaney. Part of the series: "".</description>
+      <itunes:summary>Dan and Liz/vocals, Ray/Piano, Bass/Jim, Drums/Miles, Clarinet/Cindy. Dan Delaney. Part of the series: "".</itunes:summary>
+      <itunes:subtitle>Dan and Liz/vocals, Ray/Piano, Bass/Jim, Drums/Miles, Clarinet/Cindy. Dan Delaney. Part of the series: "".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/O%20The%20Deep%20Deep%20Love%20of%20Jesus.mp3" type="audio/mpeg" length="263" />
+      <guid>http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/O%20The%20Deep%20Deep%20Love%20of%20Jesus.mp3</guid>
+      <itunes:duration>0:04:23</itunes:duration>
+    </item>
+    <item>
+      <title>My Savior's Love Endures</title>
+      <pubDate>Thu, 09 Jul 2015 21:00:02 EST</pubDate>
+      <itunes:order>23</itunes:order>
+      <description>Dan, Liz and Ray on vocals. Dan Delaney. Part of the series: "".</description>
+      <itunes:summary>Dan, Liz and Ray on vocals. Dan Delaney. Part of the series: "".</itunes:summary>
+      <itunes:subtitle>Dan, Liz and Ray on vocals. Dan Delaney. Part of the series: "".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/My%20Savior%27s%20Love%20Endures.mp3" type="audio/mpeg" length="279" />
+      <guid>http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/My%20Savior%27s%20Love%20Endures.mp3</guid>
+      <itunes:duration>0:04:39</itunes:duration>
+    </item>
+    <item>
+      <title>Alas and Did My Savior Bleed</title>
+      <pubDate>Sat, 27 Jun 2015 00:00:02 EST</pubDate>
+      <itunes:order>22</itunes:order>
+      <description>Dan and Louis on vocals. Dan Delaney. Part of the series: "".</description>
+      <itunes:summary>Dan and Louis on vocals. Dan Delaney. Part of the series: "".</itunes:summary>
+      <itunes:subtitle>Dan and Louis on vocals. Dan Delaney. Part of the series: "".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/Alas%20and%20Did%20My%20Savior%20Bleed.mp3" type="audio/mpeg" length="194" />
+      <guid>http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/Alas%20and%20Did%20My%20Savior%20Bleed.mp3</guid>
+      <itunes:duration>0:03:14</itunes:duration>
+    </item>
+    <item>
+      <title>Let Us Love and Sing and Wonder</title>
+      <pubDate>Sat, 13 Jun 2015 22:00:02 EST</pubDate>
+      <itunes:order>21</itunes:order>
+      <description>Dan and Lori on vocals. Dan Delaney. Part of the series: "".</description>
+      <itunes:summary>Dan and Lori on vocals. Dan Delaney. Part of the series: "".</itunes:summary>
+      <itunes:subtitle>Dan and Lori on vocals. Dan Delaney. Part of the series: "".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/Let%20Us%20Love%20and%20Sing%20and%20Wonder.mp3" type="audio/mpeg" length="221" />
+      <guid>http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/Let%20Us%20Love%20and%20Sing%20and%20Wonder.mp3</guid>
+      <itunes:duration>0:03:41</itunes:duration>
+    </item>
+    <item>
+      <title>Come Ye Sinners</title>
+      <pubDate>Fri, 05 Jun 2015 23:00:03 EST</pubDate>
+      <itunes:order>20</itunes:order>
+      <description>Dan and Liz on vocals. Dan Delaney. Part of the series: "".</description>
+      <itunes:summary>Dan and Liz on vocals. Dan Delaney. Part of the series: "".</itunes:summary>
+      <itunes:subtitle>Dan and Liz on vocals. Dan Delaney. Part of the series: "".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/Come%20Ye%20Sinners.mp3" type="audio/mpeg" length="214" />
+      <guid>http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/Come%20Ye%20Sinners.mp3</guid>
+      <itunes:duration>0:03:34</itunes:duration>
+    </item>
+    <item>
+      <title>This is My Father's World</title>
+      <pubDate>Fri, 05 Jun 2015 23:00:02 EST</pubDate>
+      <itunes:order>19</itunes:order>
+      <description>Dan and Ray on vocals. Dan Delaney. Part of the series: "".</description>
+      <itunes:summary>Dan and Ray on vocals. Dan Delaney. Part of the series: "".</itunes:summary>
+      <itunes:subtitle>Dan and Ray on vocals. Dan Delaney. Part of the series: "".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/This%20is%20My%20Father%27s%20World.mp3" type="audio/mpeg" length="192" />
+      <guid>http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/This%20is%20My%20Father%27s%20World.mp3</guid>
+      <itunes:duration>0:03:12</itunes:duration>
+    </item>
+    <item>
+      <title>Stand Up My Soul</title>
+      <pubDate>Tue, 21 Apr 2015 21:00:01 EST</pubDate>
+      <itunes:order>18</itunes:order>
+      <description>words by Isaac Watts/music by Bobby Guy. Dan and Liz on vocals. Part of the series: "".</description>
+      <itunes:summary>words by Isaac Watts/music by Bobby Guy. Dan and Liz on vocals. Part of the series: "".</itunes:summary>
+      <itunes:subtitle>words by Isaac Watts/music by Bobby Guy. Dan and Liz on vocals. Part of the series: "".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/Stand%20Up%20My%20Soul.mp3" type="audio/mpeg" length="163" />
+      <guid>http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/Stand%20Up%20My%20Soul.mp3</guid>
+      <itunes:duration>0:02:43</itunes:duration>
+    </item>
+    <item>
+      <title>At the Name of Jesus</title>
+      <pubDate>Sat, 21 Mar 2015 19:00:02 EST</pubDate>
+      <itunes:order>17</itunes:order>
+      <description>Dan and Liz on vocals. Dan Delaney. Part of the series: "".</description>
+      <itunes:summary>Dan and Liz on vocals. Dan Delaney. Part of the series: "".</itunes:summary>
+      <itunes:subtitle>Dan and Liz on vocals. Dan Delaney. Part of the series: "".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/At%20the%20Name%20of%20Jesus.mp3" type="audio/mpeg" length="236" />
+      <guid>http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/At%20the%20Name%20of%20Jesus.mp3</guid>
+      <itunes:duration>0:03:56</itunes:duration>
+    </item>
+    <item>
+      <title>Jesus, Lover of My Soul</title>
+      <pubDate>Thu, 19 Mar 2015 08:56:58 EST</pubDate>
+      <itunes:order>16</itunes:order>
+      <description>Dan and Liz on vocals. Dan Delaney. Part of the series: "".</description>
+      <itunes:summary>Dan and Liz on vocals. Dan Delaney. Part of the series: "".</itunes:summary>
+      <itunes:subtitle>Dan and Liz on vocals. Dan Delaney. Part of the series: "".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/Jesus%20Lover%20of%20My%20Soul.mp3" type="audio/mpeg" length="159" />
+      <guid>http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/Jesus%20Lover%20of%20My%20Soul.mp3</guid>
+      <itunes:duration>0:02:39</itunes:duration>
+    </item>
+    <item>
+      <title>Turn Your Eyes Upon Jesus</title>
+      <pubDate>Sat, 07 Mar 2015 21:00:02 EST</pubDate>
+      <itunes:order>15</itunes:order>
+      <description>The Lord's Supper. Dan Delaney. Part of the series: "".</description>
+      <itunes:summary>The Lord's Supper. Dan Delaney. Part of the series: "".</itunes:summary>
+      <itunes:subtitle>The Lord's Supper. Dan Delaney. Part of the series: "".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/Turn%20Your%20Eyes%20Upon%20Jesus.mp3" type="audio/mpeg" length="164" />
+      <guid>http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/Turn%20Your%20Eyes%20Upon%20Jesus.mp3</guid>
+      <itunes:duration>0:02:44</itunes:duration>
+    </item>
+    <item>
+      <title>The Lord's My Shepherd</title>
+      <pubDate>Sat, 07 Mar 2015 21:00:02 EST</pubDate>
+      <itunes:order>14</itunes:order>
+      <description>The Lord's Supper. Dan Delaney. Part of the series: "".</description>
+      <itunes:summary>The Lord's Supper. Dan Delaney. Part of the series: "".</itunes:summary>
+      <itunes:subtitle>The Lord's Supper. Dan Delaney. Part of the series: "".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/The%20Lords%20My%20Shepherd.mp3" type="audio/mpeg" length="202" />
+      <guid>http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/The%20Lords%20My%20Shepherd.mp3</guid>
+      <itunes:duration>0:03:22</itunes:duration>
+    </item>
+    <item>
+      <title>Our Great God</title>
+      <pubDate>Sat, 07 Mar 2015 21:00:01 EST</pubDate>
+      <itunes:order>13</itunes:order>
+      <description>The Lord's Supper. Dan Delaney. Part of the series: "".</description>
+      <itunes:summary>The Lord's Supper. Dan Delaney. Part of the series: "".</itunes:summary>
+      <itunes:subtitle>The Lord's Supper. Dan Delaney. Part of the series: "".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/Our%20Great%20God.mp3" type="audio/mpeg" length="208" />
+      <guid>http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/Our%20Great%20God.mp3</guid>
+      <itunes:duration>0:03:28</itunes:duration>
+    </item>
+    <item>
+      <title>Jealous Kind</title>
+      <pubDate>Tue, 03 Mar 2015 23:00:02 EST</pubDate>
+      <itunes:order>12</itunes:order>
+      <description>Jars of Clay. Dan Delaney. Part of the series: "".</description>
+      <itunes:summary>Jars of Clay. Dan Delaney. Part of the series: "".</itunes:summary>
+      <itunes:subtitle>Jars of Clay. Dan Delaney. Part of the series: "".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/Jealous%20Kind.mp3" type="audio/mpeg" length="232" />
+      <guid>http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/Jealous%20Kind.mp3</guid>
+      <itunes:duration>0:03:52</itunes:duration>
+    </item>
+    <item>
+      <title>Fairest Lord Jesus</title>
+      <pubDate>Mon, 16 Feb 2015 09:56:20 EST</pubDate>
+      <itunes:order>11</itunes:order>
+      <description>Piano. Kevin Cox. Part of the series: "".</description>
+      <itunes:summary>Piano. Kevin Cox. Part of the series: "".</itunes:summary>
+      <itunes:subtitle>Piano. Kevin Cox. Part of the series: "".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Music/Kevin%20Cox/KC%20-%20Fairest%20Lord%20Jesus.mp3" type="audio/mpeg" length="111" />
+      <guid>http://archive.spepmedia.com/sermons/Music/Kevin%20Cox/KC%20-%20Fairest%20Lord%20Jesus.mp3</guid>
+      <itunes:duration>0:01:51</itunes:duration>
+    </item>
+    <item>
+      <title>Be Thou My Vision</title>
+      <pubDate>Mon, 16 Feb 2015 09:56:09 EST</pubDate>
+      <itunes:order>10</itunes:order>
+      <description>Piano. Kevin Cox. Part of the series: "".</description>
+      <itunes:summary>Piano. Kevin Cox. Part of the series: "".</itunes:summary>
+      <itunes:subtitle>Piano. Kevin Cox. Part of the series: "".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Music/Kevin%20Cox/KC%20-%20Be%20Thou%20My%20Vision.mp3" type="audio/mpeg" length="124" />
+      <guid>http://archive.spepmedia.com/sermons/Music/Kevin%20Cox/KC%20-%20Be%20Thou%20My%20Vision.mp3</guid>
+      <itunes:duration>0:02:04</itunes:duration>
+    </item>
+    <item>
+      <title>My God, My Father, Blissful Name</title>
+      <pubDate>Mon, 09 Feb 2015 18:00:02 EST</pubDate>
+      <itunes:order>9</itunes:order>
+      <description>Offering. Dan Delaney. Part of the series: "".</description>
+      <itunes:summary>Offering. Dan Delaney. Part of the series: "".</itunes:summary>
+      <itunes:subtitle>Offering. Dan Delaney. Part of the series: "".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/My%20God%20My%20Father%20Blissful%20Name.mp3" type="audio/mpeg" length="230" />
+      <guid>http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/My%20God%20My%20Father%20Blissful%20Name.mp3</guid>
+      <itunes:duration>0:03:50</itunes:duration>
+    </item>
+    <item>
+      <title>Jesus, I Am Resting, Resting</title>
+      <pubDate>Fri, 06 Feb 2015 22:22:58 EST</pubDate>
+      <itunes:order>8</itunes:order>
+      <description>Offering. Dan Delaney. Part of the series: "".</description>
+      <itunes:summary>Offering. Dan Delaney. Part of the series: "".</itunes:summary>
+      <itunes:subtitle>Offering. Dan Delaney. Part of the series: "".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/Jesus%20I%20Am%20Resting%20Resting.mp3" type="audio/mpeg" length="295" />
+      <guid>http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/Jesus%20I%20Am%20Resting%20Resting.mp3</guid>
+      <itunes:duration>0:04:55</itunes:duration>
+    </item>
+    <item>
+      <title>Praise The Father, Praise The Son</title>
+      <pubDate>Wed, 04 Feb 2015 21:25:17 EST</pubDate>
+      <itunes:order>4</itunes:order>
+      <description>Lori Shook/Flute - Ray Milton/Piano. Dan Delaney. Part of the series: "Offerings".</description>
+      <itunes:summary>Lori Shook/Flute - Ray Milton/Piano. Dan Delaney. Part of the series: "Offerings".</itunes:summary>
+      <itunes:subtitle>Lori Shook/Flute - Ray Milton/Piano. Dan Delaney. Part of the series: "Offerings".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/2015-01-25%20Praise%20The%20Father%20Praise%20The%20Son.mp3" type="audio/mpeg" length="185" />
+      <guid>http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/2015-01-25%20Praise%20The%20Father%20Praise%20The%20Son.mp3</guid>
+      <itunes:duration>0:03:05</itunes:duration>
+    </item>
+    <item>
+      <title>Poor Sinner Dejected with Fear</title>
+      <pubDate>Wed, 04 Feb 2015 21:25:14 EST</pubDate>
+      <itunes:order>3</itunes:order>
+      <description>Offering with  Dan/Liz on vocals. Dan Delaney. Part of the series: "".</description>
+      <itunes:summary>Offering with  Dan/Liz on vocals. Dan Delaney. Part of the series: "".</itunes:summary>
+      <itunes:subtitle>Offering with  Dan/Liz on vocals. Dan Delaney. Part of the series: "".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/2015-01-18_Offering.mp3" type="audio/mpeg" length="198" />
+      <guid>http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/2015-01-18_Offering.mp3</guid>
+      <itunes:duration>0:03:18</itunes:duration>
+    </item>
+    <item>
+      <title>Give Us Clean Hands</title>
+      <pubDate>Wed, 04 Feb 2015 21:25:10 EST</pubDate>
+      <itunes:order>2</itunes:order>
+      <description>Dan and Liz on vocals. Dan Delaney. Part of the series: "".</description>
+      <itunes:summary>Dan and Liz on vocals. Dan Delaney. Part of the series: "".</itunes:summary>
+      <itunes:subtitle>Dan and Liz on vocals. Dan Delaney. Part of the series: "".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/2015-01-18-Give%20Us%20Clean%20Hands.mp3" type="audio/mpeg" length="190" />
+      <guid>http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/2015-01-18-Give%20Us%20Clean%20Hands.mp3</guid>
+      <itunes:duration>0:03:10</itunes:duration>
+    </item>
+    <item>
+      <title>'Tis so Sweet...</title>
+      <pubDate>Wed, 04 Feb 2015 21:24:59 EST</pubDate>
+      <itunes:order>1</itunes:order>
+      <description>'Cello!. Dan Delaney. Part of the series: "".</description>
+      <itunes:summary>'Cello!. Dan Delaney. Part of the series: "".</itunes:summary>
+      <itunes:subtitle>'Cello!. Dan Delaney. Part of the series: "".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/2015-01-11_Offering.mp3" type="audio/mpeg" length="160" />
+      <guid>http://archive.spepmedia.com/sermons/Music/Dan%20Delaney/2015-01-11_Offering.mp3</guid>
+      <itunes:duration>0:02:40</itunes:duration>
+    </item>
+  </channel>
+</rss>
