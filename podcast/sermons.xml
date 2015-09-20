@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+  <channel>
+    <link>http://spepchurch.org</link>
+    <language>en-us</language>
+    <copyright>copyright 2014 SPEP Media</copyright>
+    <webMaster>spepmedia@gmail.com(SPEP Webmaster)</webMaster>
+    <managingEditor>spepmedia@gmail.com(SPEP Webmaster)</managingEditor>
+    <image>
+      <url>http://podcast.spepmedia.com/TG_Logo.png</url>
+      <title>Transforming Grace Podcast</title>
+      <link>http://podcast.spepmedia.com/sermons.xml</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>SPEP Media Ministry</itunes:name>
+      <itunes:email>spepmedia@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity" />
+    </itunes:category>
+    <itunes:keywords>spep, media, ministry, sermons, severna, park, pca, glenn, parkinson</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://podcast.spepmedia.com/TG_Logo.png" />
+    <atom:link href="http://podcast.spepmedia.com/sermons.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 19 Sep 2015 22:00:02 EST</pubDate>
+    <title>Transforming Grace Podcast</title>
+    <itunes:author>Severna Park EP Church</itunes:author>
+    <description>Severna Park EP Church is located in Pasadena MD. We are a PCA Church. Our website is http://spepchurch.org. Services happen at 9:30 and 11AM Sunday mornings. Links to internet feeds of our services can be found on our webpage.</description>
+    <itunes:summary>Severna Park EP Church is located in Pasadena MD. We are a PCA Church. Our website is http://spepchurch.org. Services happen at 9:30 and 11AM Sunday mornings. Links to internet feeds of our services can be found on our webpage.</itunes:summary>
+    <itunes:subtitle>A church where Jesus mends broken lives with the goodness of God, and equips us to join him in his work.</itunes:subtitle>
+    <lastBuildDate>Sat, 19 Sep 2015 22:00:02 EST</lastBuildDate>
+    <item>
+      <title>The Only Sign That Matters</title>
+      <pubDate>Sat, 05 Sep 2015 22:00:01 EST</pubDate>
+      <itunes:order>41</itunes:order>
+      <description>Matthew 12:38-41. Bill Evans. Part of the series: "Persistent Grace".</description>
+      <itunes:summary>Matthew 12:38-41. Bill Evans. Part of the series: "Persistent Grace".</itunes:summary>
+      <itunes:subtitle>Matthew 12:38-41. Bill Evans. Part of the series: "Persistent Grace".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Persistent%20Grace/2015-08-30_Sermon.mp3" type="audio/mpeg" length="1638" />
+      <guid>http://archive.spepmedia.com/sermons/Persistent%20Grace/2015-08-30_Sermon.mp3</guid>
+      <itunes:duration>0:27:18</itunes:duration>
+    </item>
+    <item>
+      <title>Understanding God's Love</title>
+      <pubDate>Sat, 29 Aug 2015 22:00:02 EST</pubDate>
+      <itunes:order>40</itunes:order>
+      <description>Jonah 4. Bill Evans. Part of the series: "Persistent Grace".</description>
+      <itunes:summary>Jonah 4. Bill Evans. Part of the series: "Persistent Grace".</itunes:summary>
+      <itunes:subtitle>Jonah 4. Bill Evans. Part of the series: "Persistent Grace".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Persistent%20Grace/2015-08-23_Sermon.mp3" type="audio/mpeg" length="1718" />
+      <guid>http://archive.spepmedia.com/sermons/Persistent%20Grace/2015-08-23_Sermon.mp3</guid>
+      <itunes:duration>0:28:38</itunes:duration>
+    </item>
+    <item>
+      <title>God Had Compassion</title>
+      <pubDate>Sat, 29 Aug 2015 22:00:02 EST</pubDate>
+      <itunes:order>39</itunes:order>
+      <description>Jonah 3. Glenn Parkinson. Part of the series: "Persistent Grace".</description>
+      <itunes:summary>Jonah 3. Glenn Parkinson. Part of the series: "Persistent Grace".</itunes:summary>
+      <itunes:subtitle>Jonah 3. Glenn Parkinson. Part of the series: "Persistent Grace".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Persistent%20Grace/2015-08-16_Sermon.mp3" type="audio/mpeg" length="1754" />
+      <guid>http://archive.spepmedia.com/sermons/Persistent%20Grace/2015-08-16_Sermon.mp3</guid>
+      <itunes:duration>0:29:14</itunes:duration>
+    </item>
+    <item>
+      <title>Salvation Comes from the Lord</title>
+      <pubDate>Sat, 22 Aug 2015 23:00:02 EST</pubDate>
+      <itunes:order>38</itunes:order>
+      <description>Jonah 2. Glenn Parkinson. Part of the series: "Persistent Grace".</description>
+      <itunes:summary>Jonah 2. Glenn Parkinson. Part of the series: "Persistent Grace".</itunes:summary>
+      <itunes:subtitle>Jonah 2. Glenn Parkinson. Part of the series: "Persistent Grace".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Persistent%20Grace/2015-08-09_Sermon.mp3" type="audio/mpeg" length="1652" />
+      <guid>http://archive.spepmedia.com/sermons/Persistent%20Grace/2015-08-09_Sermon.mp3</guid>
+      <itunes:duration>0:27:32</itunes:duration>
+    </item>
+    <item>
+      <title>The Intentional Hand of God</title>
+      <pubDate>Sun, 02 Aug 2015 22:00:02 EST</pubDate>
+      <itunes:order>37</itunes:order>
+      <description>Jonah 1:4-16. Bill Evans. Part of the series: "Persistent Grace".</description>
+      <itunes:summary>Jonah 1:4-16. Bill Evans. Part of the series: "Persistent Grace".</itunes:summary>
+      <itunes:subtitle>Jonah 1:4-16. Bill Evans. Part of the series: "Persistent Grace".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Persistent%20Grace/2015-08-02_Sermon.mp3" type="audio/mpeg" length="1701" />
+      <guid>http://archive.spepmedia.com/sermons/Persistent%20Grace/2015-08-02_Sermon.mp3</guid>
+      <itunes:duration>0:28:21</itunes:duration>
+    </item>
+    <item>
+      <title>Why Jonah, Why Nineveh, Why Not?</title>
+      <pubDate>Sat, 01 Aug 2015 21:00:02 EST</pubDate>
+      <itunes:order>36</itunes:order>
+      <description>Jonah 1:1-3. Bill Evans. Part of the series: "Persistent Grace".</description>
+      <itunes:summary>Jonah 1:1-3. Bill Evans. Part of the series: "Persistent Grace".</itunes:summary>
+      <itunes:subtitle>Jonah 1:1-3. Bill Evans. Part of the series: "Persistent Grace".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Persistent%20Grace/2015-07-26_Sermon.mp3" type="audio/mpeg" length="1532" />
+      <guid>http://archive.spepmedia.com/sermons/Persistent%20Grace/2015-07-26_Sermon.mp3</guid>
+      <itunes:duration>0:25:32</itunes:duration>
+    </item>
+    <item>
+      <title>The God Who Gives Life from the Dead</title>
+      <pubDate>Sun, 19 Jul 2015 22:00:02 EST</pubDate>
+      <itunes:order>35</itunes:order>
+      <description>Romans 4:13-25. Glenn Parkinson. Part of the series: "Trained to Follow Jesus".</description>
+      <itunes:summary>Romans 4:13-25. Glenn Parkinson. Part of the series: "Trained to Follow Jesus".</itunes:summary>
+      <itunes:subtitle>Romans 4:13-25. Glenn Parkinson. Part of the series: "Trained to Follow Jesus".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Trained%20to%20Follow%20Jesus/2015-07-19_Sermon.mp3" type="audio/mpeg" length="1625" />
+      <guid>http://archive.spepmedia.com/sermons/Trained%20to%20Follow%20Jesus/2015-07-19_Sermon.mp3</guid>
+      <itunes:duration>0:27:05</itunes:duration>
+    </item>
+    <item>
+      <title>A Sign of Righteousness by Faith</title>
+      <pubDate>Sun, 12 Jul 2015 22:00:01 EST</pubDate>
+      <itunes:order>34</itunes:order>
+      <description>Romans 4:9-12. Glenn Parkinson. Part of the series: "Trained to Follow Jesus".</description>
+      <itunes:summary>Romans 4:9-12. Glenn Parkinson. Part of the series: "Trained to Follow Jesus".</itunes:summary>
+      <itunes:subtitle>Romans 4:9-12. Glenn Parkinson. Part of the series: "Trained to Follow Jesus".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Trained%20to%20Follow%20Jesus/2015-07-12_Sermon.mp3" type="audio/mpeg" length="1438" />
+      <guid>http://archive.spepmedia.com/sermons/Trained%20to%20Follow%20Jesus/2015-07-12_Sermon.mp3</guid>
+      <itunes:duration>0:23:58</itunes:duration>
+    </item>
+    <item>
+      <title>Credited as Righteousness</title>
+      <pubDate>Sun, 05 Jul 2015 22:00:02 EST</pubDate>
+      <itunes:order>33</itunes:order>
+      <description>Romans 4:1-8. Glenn Parkinson. Part of the series: "Trained to Follow Jesus".</description>
+      <itunes:summary>Romans 4:1-8. Glenn Parkinson. Part of the series: "Trained to Follow Jesus".</itunes:summary>
+      <itunes:subtitle>Romans 4:1-8. Glenn Parkinson. Part of the series: "Trained to Follow Jesus".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Trained%20to%20Follow%20Jesus/2015-07-05_Sermon.mp3" type="audio/mpeg" length="1588" />
+      <guid>http://archive.spepmedia.com/sermons/Trained%20to%20Follow%20Jesus/2015-07-05_Sermon.mp3</guid>
+      <itunes:duration>0:26:28</itunes:duration>
+    </item>
+    <item>
+      <title>A Righteousness from God</title>
+      <pubDate>Sun, 28 Jun 2015 17:00:02 EST</pubDate>
+      <itunes:order>32</itunes:order>
+      <description>Romans 3:21-31. Glenn Parkinson. Part of the series: "Trained to Follow Jesus".</description>
+      <itunes:summary>Romans 3:21-31. Glenn Parkinson. Part of the series: "Trained to Follow Jesus".</itunes:summary>
+      <itunes:subtitle>Romans 3:21-31. Glenn Parkinson. Part of the series: "Trained to Follow Jesus".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Trained%20to%20Follow%20Jesus/2015-06-28_Sermon.mp3" type="audio/mpeg" length="1552" />
+      <guid>http://archive.spepmedia.com/sermons/Trained%20to%20Follow%20Jesus/2015-06-28_Sermon.mp3</guid>
+      <itunes:duration>0:25:52</itunes:duration>
+    </item>
+    <item>
+      <title>Conscious of Sin</title>
+      <pubDate>Sun, 21 Jun 2015 22:00:02 EST</pubDate>
+      <itunes:order>31</itunes:order>
+      <description>Romans 3:9-20. Glenn Parkinson. Part of the series: "Trained to Follow Jesus".</description>
+      <itunes:summary>Romans 3:9-20. Glenn Parkinson. Part of the series: "Trained to Follow Jesus".</itunes:summary>
+      <itunes:subtitle>Romans 3:9-20. Glenn Parkinson. Part of the series: "Trained to Follow Jesus".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Trained%20to%20Follow%20Jesus/2015-06-21_Sermon.mp3" type="audio/mpeg" length="1607" />
+      <guid>http://archive.spepmedia.com/sermons/Trained%20to%20Follow%20Jesus/2015-06-21_Sermon.mp3</guid>
+      <itunes:duration>0:26:47</itunes:duration>
+    </item>
+    <item>
+      <title>The Faithfulness of God</title>
+      <pubDate>Mon, 15 Jun 2015 22:00:03 EST</pubDate>
+      <itunes:order>30</itunes:order>
+      <description>Romans 3:1-2. Glenn Parkinson. Part of the series: "Trained to Follow Jesus".</description>
+      <itunes:summary>Romans 3:1-2. Glenn Parkinson. Part of the series: "Trained to Follow Jesus".</itunes:summary>
+      <itunes:subtitle>Romans 3:1-2. Glenn Parkinson. Part of the series: "Trained to Follow Jesus".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Trained%20to%20Follow%20Jesus/2015-06-14_Sermon.mp3" type="audio/mpeg" length="1560" />
+      <guid>http://archive.spepmedia.com/sermons/Trained%20to%20Follow%20Jesus/2015-06-14_Sermon.mp3</guid>
+      <itunes:duration>0:26:00</itunes:duration>
+    </item>
+    <item>
+      <title>By the Spirit</title>
+      <pubDate>Mon, 15 Jun 2015 22:00:02 EST</pubDate>
+      <itunes:order>29</itunes:order>
+      <description>Romans 2:17-29. Glenn Parkinson. Part of the series: "Trained to Follow Jesus".</description>
+      <itunes:summary>Romans 2:17-29. Glenn Parkinson. Part of the series: "Trained to Follow Jesus".</itunes:summary>
+      <itunes:subtitle>Romans 2:17-29. Glenn Parkinson. Part of the series: "Trained to Follow Jesus".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Trained%20to%20Follow%20Jesus/2015-06-07_Sermon.mp3" type="audio/mpeg" length="1610" />
+      <guid>http://archive.spepmedia.com/sermons/Trained%20to%20Follow%20Jesus/2015-06-07_Sermon.mp3</guid>
+      <itunes:duration>0:26:50</itunes:duration>
+    </item>
+    <item>
+      <title>God Does Not Show Favoritism</title>
+      <pubDate>Sun, 07 Jun 2015 21:00:02 EST</pubDate>
+      <itunes:order>28</itunes:order>
+      <description>Romans 2:5-6. Glenn Parkinson. Part of the series: "Trained to Follow Jesus".</description>
+      <itunes:summary>Romans 2:5-6. Glenn Parkinson. Part of the series: "Trained to Follow Jesus".</itunes:summary>
+      <itunes:subtitle>Romans 2:5-6. Glenn Parkinson. Part of the series: "Trained to Follow Jesus".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Trained%20to%20Follow%20Jesus/2015-05-31_Sermon.mp3" type="audio/mpeg" length="1524" />
+      <guid>http://archive.spepmedia.com/sermons/Trained%20to%20Follow%20Jesus/2015-05-31_Sermon.mp3</guid>
+      <itunes:duration>0:25:24</itunes:duration>
+    </item>
+    <item>
+      <title>God's Kindness Leads Toward Repentance</title>
+      <pubDate>Sun, 24 May 2015 22:21:43 EST</pubDate>
+      <itunes:order>27</itunes:order>
+      <description>Romans 2:1-4. Glenn Parkinson. Part of the series: "Trained to Follow Jesus".</description>
+      <itunes:summary>Romans 2:1-4. Glenn Parkinson. Part of the series: "Trained to Follow Jesus".</itunes:summary>
+      <itunes:subtitle>Romans 2:1-4. Glenn Parkinson. Part of the series: "Trained to Follow Jesus".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Trained%20to%20Follow%20Jesus/2015-05-24_Sermon.mp3" type="audio/mpeg" length="1565" />
+      <guid>http://archive.spepmedia.com/sermons/Trained%20to%20Follow%20Jesus/2015-05-24_Sermon.mp3</guid>
+      <itunes:duration>0:26:05</itunes:duration>
+    </item>
+    <item>
+      <title>God Gave Them Up</title>
+      <pubDate>Sun, 17 May 2015 23:00:02 EST</pubDate>
+      <itunes:order>26</itunes:order>
+      <description>Romans 1:24-32. Bill Evans. Part of the series: "Trained to Follow Jesus".</description>
+      <itunes:summary>Romans 1:24-32. Bill Evans. Part of the series: "Trained to Follow Jesus".</itunes:summary>
+      <itunes:subtitle>Romans 1:24-32. Bill Evans. Part of the series: "Trained to Follow Jesus".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Trained%20to%20Follow%20Jesus/2015-05-17_Sermon.mp3" type="audio/mpeg" length="1668" />
+      <guid>http://archive.spepmedia.com/sermons/Trained%20to%20Follow%20Jesus/2015-05-17_Sermon.mp3</guid>
+      <itunes:duration>0:27:48</itunes:duration>
+    </item>
+    <item>
+      <title>Suppressing the Truth</title>
+      <pubDate>Sun, 10 May 2015 21:00:02 EST</pubDate>
+      <itunes:order>25</itunes:order>
+      <description>Romans 1:18-23. Matt Hedinger. Part of the series: "Trained to Follow Jesus".</description>
+      <itunes:summary>Romans 1:18-23. Matt Hedinger. Part of the series: "Trained to Follow Jesus".</itunes:summary>
+      <itunes:subtitle>Romans 1:18-23. Matt Hedinger. Part of the series: "Trained to Follow Jesus".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Trained%20to%20Follow%20Jesus/2015-05-10_Sermon.mp3" type="audio/mpeg" length="1690" />
+      <guid>http://archive.spepmedia.com/sermons/Trained%20to%20Follow%20Jesus/2015-05-10_Sermon.mp3</guid>
+      <itunes:duration>0:28:10</itunes:duration>
+    </item>
+    <item>
+      <title>The Centrality of Faith for Discipleship</title>
+      <pubDate>Sun, 03 May 2015 21:00:02 EST</pubDate>
+      <itunes:order>24</itunes:order>
+      <description>Romans 1:16. Bill Evans. Part of the series: "Trained to Follow Jesus".</description>
+      <itunes:summary>Romans 1:16. Bill Evans. Part of the series: "Trained to Follow Jesus".</itunes:summary>
+      <itunes:subtitle>Romans 1:16. Bill Evans. Part of the series: "Trained to Follow Jesus".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Trained%20to%20Follow%20Jesus/2015-05-03_Sermon.mp3" type="audio/mpeg" length="1652" />
+      <guid>http://archive.spepmedia.com/sermons/Trained%20to%20Follow%20Jesus/2015-05-03_Sermon.mp3</guid>
+      <itunes:duration>0:27:32</itunes:duration>
+    </item>
+    <item>
+      <title>The Obedience of Faith</title>
+      <pubDate>Sun, 26 Apr 2015 23:00:02 EST</pubDate>
+      <itunes:order>23</itunes:order>
+      <description>Romans 1:1-15. Glenn Parkinson. Part of the series: "Trained to Follow Jesus".</description>
+      <itunes:summary>Romans 1:1-15. Glenn Parkinson. Part of the series: "Trained to Follow Jesus".</itunes:summary>
+      <itunes:subtitle>Romans 1:1-15. Glenn Parkinson. Part of the series: "Trained to Follow Jesus".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/Trained%20to%20Follow%20Jesus/2015-04-26_Sermon.mp3" type="audio/mpeg" length="1749" />
+      <guid>http://archive.spepmedia.com/sermons/Trained%20to%20Follow%20Jesus/2015-04-26_Sermon.mp3</guid>
+      <itunes:duration>0:29:09</itunes:duration>
+    </item>
+    <item>
+      <title>Christ Died for Our Sins</title>
+      <pubDate>Tue, 21 Apr 2015 20:00:02 EST</pubDate>
+      <itunes:order>22</itunes:order>
+      <description>1 Corinthians 15:1-4. Glenn Parkinson. Part of the series: "The Resurrection".</description>
+      <itunes:summary>1 Corinthians 15:1-4. Glenn Parkinson. Part of the series: "The Resurrection".</itunes:summary>
+      <itunes:subtitle>1 Corinthians 15:1-4. Glenn Parkinson. Part of the series: "The Resurrection".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/The%20Resurrection/2015-04-03_Good_Friday.mp3" type="audio/mpeg" length="1353" />
+      <guid>http://archive.spepmedia.com/sermons/The%20Resurrection/2015-04-03_Good_Friday.mp3</guid>
+      <itunes:duration>0:22:33</itunes:duration>
+    </item>
+    <item>
+      <title>A Resurrected Life</title>
+      <pubDate>Sun, 19 Apr 2015 23:00:02 EST</pubDate>
+      <itunes:order>21</itunes:order>
+      <description>1 Corinthians 15:58. Bill Evans. Part of the series: "The Resurrection".</description>
+      <itunes:summary>1 Corinthians 15:58. Bill Evans. Part of the series: "The Resurrection".</itunes:summary>
+      <itunes:subtitle>1 Corinthians 15:58. Bill Evans. Part of the series: "The Resurrection".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/The%20Resurrection/2015-04-19_Sermon.mp3" type="audio/mpeg" length="1603" />
+      <guid>http://archive.spepmedia.com/sermons/The%20Resurrection/2015-04-19_Sermon.mp3</guid>
+      <itunes:duration>0:26:43</itunes:duration>
+    </item>
+    <item>
+      <title>A Resurrection Hope</title>
+      <pubDate>Sun, 12 Apr 2015 22:00:02 EST</pubDate>
+      <itunes:order>20</itunes:order>
+      <description>1 Corinthians 15:50-57. Bill Evans. Part of the series: "The Resurrection".</description>
+      <itunes:summary>1 Corinthians 15:50-57. Bill Evans. Part of the series: "The Resurrection".</itunes:summary>
+      <itunes:subtitle>1 Corinthians 15:50-57. Bill Evans. Part of the series: "The Resurrection".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/The%20Resurrection/2015-04-12_Sermon.mp3" type="audio/mpeg" length="1707" />
+      <guid>http://archive.spepmedia.com/sermons/The%20Resurrection/2015-04-12_Sermon.mp3</guid>
+      <itunes:duration>0:28:27</itunes:duration>
+    </item>
+    <item>
+      <title>The Likeness of the Man from Heaven</title>
+      <pubDate>Sun, 05 Apr 2015 22:00:02 EST</pubDate>
+      <itunes:order>19</itunes:order>
+      <description>1 Corinthians 15:35-49. Glenn Parkinson. Part of the series: "The Resurrection".</description>
+      <itunes:summary>1 Corinthians 15:35-49. Glenn Parkinson. Part of the series: "The Resurrection".</itunes:summary>
+      <itunes:subtitle>1 Corinthians 15:35-49. Glenn Parkinson. Part of the series: "The Resurrection".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/The%20Resurrection/2015-04-05_Sermon.mp3" type="audio/mpeg" length="1296" />
+      <guid>http://archive.spepmedia.com/sermons/The%20Resurrection/2015-04-05_Sermon.mp3</guid>
+      <itunes:duration>0:21:36</itunes:duration>
+    </item>
+    <item>
+      <title>God is All in All</title>
+      <pubDate>Sun, 29 Mar 2015 19:00:02 EST</pubDate>
+      <itunes:order>18</itunes:order>
+      <description>1 Corinthians 15:20-28. Glenn Parkinson. Part of the series: "The Resurrection".</description>
+      <itunes:summary>1 Corinthians 15:20-28. Glenn Parkinson. Part of the series: "The Resurrection".</itunes:summary>
+      <itunes:subtitle>1 Corinthians 15:20-28. Glenn Parkinson. Part of the series: "The Resurrection".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/The%20Resurrection/2015-03-29_Sermon.mp3" type="audio/mpeg" length="1419" />
+      <guid>http://archive.spepmedia.com/sermons/The%20Resurrection/2015-03-29_Sermon.mp3</guid>
+      <itunes:duration>0:23:39</itunes:duration>
+    </item>
+    <item>
+      <title>Domino Effect of The Resurrection</title>
+      <pubDate>Fri, 27 Mar 2015 23:00:02 EST</pubDate>
+      <itunes:order>17</itunes:order>
+      <description>1 Corinthians 15:12-19. Bill Evans. Part of the series: "The Resurrection".</description>
+      <itunes:summary>1 Corinthians 15:12-19. Bill Evans. Part of the series: "The Resurrection".</itunes:summary>
+      <itunes:subtitle>1 Corinthians 15:12-19. Bill Evans. Part of the series: "The Resurrection".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/The%20Resurrection/2015-03-22_Sermon.mp3" type="audio/mpeg" length="1549" />
+      <guid>http://archive.spepmedia.com/sermons/The%20Resurrection/2015-03-22_Sermon.mp3</guid>
+      <itunes:duration>0:25:49</itunes:duration>
+    </item>
+    <item>
+      <title>By This Gospel You Are Saved</title>
+      <pubDate>Wed, 18 Mar 2015 14:07:17 EST</pubDate>
+      <itunes:order>16</itunes:order>
+      <description>1 Corinthians 15:1-11. Glenn Parkinson. Part of the series: "The Resurrection".</description>
+      <itunes:summary>1 Corinthians 15:1-11. Glenn Parkinson. Part of the series: "The Resurrection".</itunes:summary>
+      <itunes:subtitle>1 Corinthians 15:1-11. Glenn Parkinson. Part of the series: "The Resurrection".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/The%20Resurrection/2015-03-15_Sermon.mp3" type="audio/mpeg" length="1451" />
+      <guid>http://archive.spepmedia.com/sermons/The%20Resurrection/2015-03-15_Sermon.mp3</guid>
+      <itunes:duration>0:24:11</itunes:duration>
+    </item>
+    <item>
+      <title>The Lord's Prayer Doxology</title>
+      <pubDate>Tue, 10 Mar 2015 07:40:02 EST</pubDate>
+      <itunes:order>15</itunes:order>
+      <description>Matthew 6:13 (KJV). Bill Evans. Part of the series: "The Lord's Prayer".</description>
+      <itunes:summary>Matthew 6:13 (KJV). Bill Evans. Part of the series: "The Lord's Prayer".</itunes:summary>
+      <itunes:subtitle>Matthew 6:13 (KJV). Bill Evans. Part of the series: "The Lord's Prayer".</itunes:subtitle>
+      <enclosure url="https://archive.spepmedia.com/sermons/The%20Lord%27s%20Prayer/2015-03-08_Sermon.mp3" type="audio/mpeg" length="1692" />
+      <guid>https://archive.spepmedia.com/sermons/The%20Lord%27s%20Prayer/2015-03-08_Sermon.mp3</guid>
+      <itunes:duration>0:28:12</itunes:duration>
+    </item>
+    <item>
+      <title>Deliver Us</title>
+      <pubDate>Mon, 02 Mar 2015 23:00:02 EST</pubDate>
+      <itunes:order>14</itunes:order>
+      <description>Matthew 6:13. Glenn Parkinson. Part of the series: "The Lord's Prayer".</description>
+      <itunes:summary>Matthew 6:13. Glenn Parkinson. Part of the series: "The Lord's Prayer".</itunes:summary>
+      <itunes:subtitle>Matthew 6:13. Glenn Parkinson. Part of the series: "The Lord's Prayer".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/The%20Lord%27s%20Prayer/2015-03-01_Sermon.mp3" type="audio/mpeg" length="1656" />
+      <guid>http://archive.spepmedia.com/sermons/The%20Lord%27s%20Prayer/2015-03-01_Sermon.mp3</guid>
+      <itunes:duration>0:27:36</itunes:duration>
+    </item>
+    <item>
+      <title>The Good We Ought to Do</title>
+      <pubDate>Sun, 22 Feb 2015 17:00:02 EST</pubDate>
+      <itunes:order>13</itunes:order>
+      <description>James 4:13-17. Glenn Parkinson. Part of the series: "".</description>
+      <itunes:summary>James 4:13-17. Glenn Parkinson. Part of the series: "".</itunes:summary>
+      <itunes:subtitle>James 4:13-17. Glenn Parkinson. Part of the series: "".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/No%20Series/2015-02-22_Sermon.mp3" type="audio/mpeg" length="559" />
+      <guid>http://archive.spepmedia.com/sermons/No%20Series/2015-02-22_Sermon.mp3</guid>
+      <itunes:duration>0:09:19</itunes:duration>
+    </item>
+    <item>
+      <title>As We Forgive</title>
+      <pubDate>Sun, 15 Feb 2015 23:00:02 EST</pubDate>
+      <itunes:order>12</itunes:order>
+      <description>Matthew 6:12. Glenn Parkinson. Part of the series: "The Lord's Prayer".</description>
+      <itunes:summary>Matthew 6:12. Glenn Parkinson. Part of the series: "The Lord's Prayer".</itunes:summary>
+      <itunes:subtitle>Matthew 6:12. Glenn Parkinson. Part of the series: "The Lord's Prayer".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/The%20Lord%27s%20Prayer/2015-02-15_Sermon.mp3" type="audio/mpeg" length="1778" />
+      <guid>http://archive.spepmedia.com/sermons/The%20Lord%27s%20Prayer/2015-02-15_Sermon.mp3</guid>
+      <itunes:duration>0:29:38</itunes:duration>
+    </item>
+    <item>
+      <title>Our Daily Bread</title>
+      <pubDate>Sun, 08 Feb 2015 21:00:02 EST</pubDate>
+      <itunes:order>11</itunes:order>
+      <description>Matthew 6:11. Glenn Parkinson. Part of the series: "The Lord's Prayer".</description>
+      <itunes:summary>Matthew 6:11. Glenn Parkinson. Part of the series: "The Lord's Prayer".</itunes:summary>
+      <itunes:subtitle>Matthew 6:11. Glenn Parkinson. Part of the series: "The Lord's Prayer".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/The%20Lord%27s%20Prayer/2015-02-08_Sermon.mp3" type="audio/mpeg" length="1570" />
+      <guid>http://archive.spepmedia.com/sermons/The%20Lord%27s%20Prayer/2015-02-08_Sermon.mp3</guid>
+      <itunes:duration>0:26:10</itunes:duration>
+    </item>
+    <item>
+      <title>Your Will Be Done</title>
+      <pubDate>Wed, 04 Feb 2015 21:15:13 EST</pubDate>
+      <itunes:order>10</itunes:order>
+      <description>Matthew 6:10. Glenn Parkinson. Part of the series: "The Lord's Prayer".</description>
+      <itunes:summary>Matthew 6:10. Glenn Parkinson. Part of the series: "The Lord's Prayer".</itunes:summary>
+      <itunes:subtitle>Matthew 6:10. Glenn Parkinson. Part of the series: "The Lord's Prayer".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/The%20Lord%27s%20Prayer/2015-02-01_Sermon.mp3" type="audio/mpeg" length="1570" />
+      <guid>http://archive.spepmedia.com/sermons/The%20Lord%27s%20Prayer/2015-02-01_Sermon.mp3</guid>
+      <itunes:duration>0:26:10</itunes:duration>
+    </item>
+    <item>
+      <title>Our Father in Heaven</title>
+      <pubDate>Wed, 04 Feb 2015 21:15:10 EST</pubDate>
+      <itunes:order>9</itunes:order>
+      <description>Matthew 6:9. Glenn Parkinson. Part of the series: "The Lord's Prayer".</description>
+      <itunes:summary>Matthew 6:9. Glenn Parkinson. Part of the series: "The Lord's Prayer".</itunes:summary>
+      <itunes:subtitle>Matthew 6:9. Glenn Parkinson. Part of the series: "The Lord's Prayer".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/The%20Lord%27s%20Prayer/2015-01-25_Sermon.mp3" type="audio/mpeg" length="1817" />
+      <guid>http://archive.spepmedia.com/sermons/The%20Lord%27s%20Prayer/2015-01-25_Sermon.mp3</guid>
+      <itunes:duration>0:30:17</itunes:duration>
+    </item>
+    <item>
+      <title>Call on the Name of the Lord</title>
+      <pubDate>Wed, 04 Feb 2015 21:15:08 EST</pubDate>
+      <itunes:order>8</itunes:order>
+      <description>Genesis 4:25-26. Glenn Parkinson. Part of the series: "The Lord's Prayer".</description>
+      <itunes:summary>Genesis 4:25-26. Glenn Parkinson. Part of the series: "The Lord's Prayer".</itunes:summary>
+      <itunes:subtitle>Genesis 4:25-26. Glenn Parkinson. Part of the series: "The Lord's Prayer".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/The%20Lord%27s%20Prayer/2015-01-18_Sermon.mp3" type="audio/mpeg" length="1488" />
+      <guid>http://archive.spepmedia.com/sermons/The%20Lord%27s%20Prayer/2015-01-18_Sermon.mp3</guid>
+      <itunes:duration>0:24:48</itunes:duration>
+    </item>
+    <item>
+      <title>Prayer</title>
+      <pubDate>Wed, 04 Feb 2015 21:15:04 EST</pubDate>
+      <itunes:order>7</itunes:order>
+      <description>Precursor to The Lord's Prayer Series. Recorded at the Me's Prayer Breakfast.. Glenn Parkinson. Part of the series: "The Lord's Prayer".</description>
+      <itunes:summary>Precursor to The Lord's Prayer Series. Recorded at the Me's Prayer Breakfast.. Glenn Parkinson. Part of the series: "The Lord's Prayer".</itunes:summary>
+      <itunes:subtitle>Precursor to The Lord's Prayer Series. Recorded at the Me's Prayer Breakfast.. Glenn Parkinson. Part of the series: "The Lord's Prayer".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/The%20Lord%27s%20Prayer/2015-01-17%20Men%27s%20Prayer%20Breakfast.mp3" type="audio/mpeg" length="971" />
+      <guid>http://archive.spepmedia.com/sermons/The%20Lord%27s%20Prayer/2015-01-17%20Men%27s%20Prayer%20Breakfast.mp3</guid>
+      <itunes:duration>0:16:11</itunes:duration>
+    </item>
+    <item>
+      <title>Prayer</title>
+      <pubDate>Wed, 04 Feb 2015 21:14:34 EST</pubDate>
+      <itunes:order>6</itunes:order>
+      <description>Precursor to The Lord's Prayer Series. Recorded at the Me's Prayer Breakfast.. Glenn Parkinson. Part of the series: "The Lord's Prayer".</description>
+      <itunes:summary>Precursor to The Lord's Prayer Series. Recorded at the Me's Prayer Breakfast.. Glenn Parkinson. Part of the series: "The Lord's Prayer".</itunes:summary>
+      <itunes:subtitle>Precursor to The Lord's Prayer Series. Recorded at the Me's Prayer Breakfast.. Glenn Parkinson. Part of the series: "The Lord's Prayer".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/The%20Lord%27s%20Prayer/2015-01-17%20Men%27s%20Prayer%20Breakfast.mp3" type="audio/mpeg" length="971" />
+      <guid>http://archive.spepmedia.com/sermons/The%20Lord%27s%20Prayer/2015-01-17%20Men%27s%20Prayer%20Breakfast.mp3</guid>
+      <itunes:duration>0:16:11</itunes:duration>
+    </item>
+    <item>
+      <title>Blessed Persecution - Part 2</title>
+      <pubDate>Wed, 04 Feb 2015 21:13:55 EST</pubDate>
+      <itunes:order>5</itunes:order>
+      <description>Matthew 5:10-12. Bill Evans. Part of the series: "People God Blesses".</description>
+      <itunes:summary>Matthew 5:10-12. Bill Evans. Part of the series: "People God Blesses".</itunes:summary>
+      <itunes:subtitle>Matthew 5:10-12. Bill Evans. Part of the series: "People God Blesses".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/People%20God%20Blesses/2015-01-11_Sermon.mp3" type="audio/mpeg" length="1854" />
+      <guid>http://archive.spepmedia.com/sermons/People%20God%20Blesses/2015-01-11_Sermon.mp3</guid>
+      <itunes:duration>0:30:54</itunes:duration>
+    </item>
+    <item>
+      <title>Blessed Persecution</title>
+      <pubDate>Wed, 04 Feb 2015 21:13:50 EST</pubDate>
+      <itunes:order>4</itunes:order>
+      <description>Matthew 5:10-12. Bill Evans. Part of the series: "People God Blesses".</description>
+      <itunes:summary>Matthew 5:10-12. Bill Evans. Part of the series: "People God Blesses".</itunes:summary>
+      <itunes:subtitle>Matthew 5:10-12. Bill Evans. Part of the series: "People God Blesses".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/People%20God%20Blesses/2015-01-04_Sermon.mp3" type="audio/mpeg" length="1797" />
+      <guid>http://archive.spepmedia.com/sermons/People%20God%20Blesses/2015-01-04_Sermon.mp3</guid>
+      <itunes:duration>0:29:57</itunes:duration>
+    </item>
+    <item>
+      <title>Blessed are the Peacemakers</title>
+      <pubDate>Wed, 04 Feb 2015 21:13:42 EST</pubDate>
+      <itunes:order>3</itunes:order>
+      <description>Matthew 5:9. Glenn Parkinson. Part of the series: "People God Blesses".</description>
+      <itunes:summary>Matthew 5:9. Glenn Parkinson. Part of the series: "People God Blesses".</itunes:summary>
+      <itunes:subtitle>Matthew 5:9. Glenn Parkinson. Part of the series: "People God Blesses".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/People%20God%20Blesses/2014-12-21_Sermon.mp3" type="audio/mpeg" length="1593" />
+      <guid>http://archive.spepmedia.com/sermons/People%20God%20Blesses/2014-12-21_Sermon.mp3</guid>
+      <itunes:duration>0:26:33</itunes:duration>
+    </item>
+    <item>
+      <title>Blessed are the Pure in Heart</title>
+      <pubDate>Wed, 04 Feb 2015 21:13:30 EST</pubDate>
+      <itunes:order>2</itunes:order>
+      <description>Matthew 5:8. Glenn Parkinson. Part of the series: "People God Blesses".</description>
+      <itunes:summary>Matthew 5:8. Glenn Parkinson. Part of the series: "People God Blesses".</itunes:summary>
+      <itunes:subtitle>Matthew 5:8. Glenn Parkinson. Part of the series: "People God Blesses".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/People%20God%20Blesses/2014-12-14_Sermon.mp3" type="audio/mpeg" length="1684" />
+      <guid>http://archive.spepmedia.com/sermons/People%20God%20Blesses/2014-12-14_Sermon.mp3</guid>
+      <itunes:duration>0:28:04</itunes:duration>
+    </item>
+    <item>
+      <title>Blessed are the Merciful</title>
+      <pubDate>Wed, 04 Feb 2015 21:13:07 EST</pubDate>
+      <itunes:order>1</itunes:order>
+      <description>Matthew 5:7. Glenn Parkinson. Part of the series: "People God Blesses".</description>
+      <itunes:summary>Matthew 5:7. Glenn Parkinson. Part of the series: "People God Blesses".</itunes:summary>
+      <itunes:subtitle>Matthew 5:7. Glenn Parkinson. Part of the series: "People God Blesses".</itunes:subtitle>
+      <enclosure url="http://archive.spepmedia.com/sermons/People%20God%20Blesses/2014-12-07_Sermon.mp3" type="audio/mpeg" length="1355" />
+      <guid>http://archive.spepmedia.com/sermons/People%20God%20Blesses/2014-12-07_Sermon.mp3</guid>
+      <itunes:duration>0:22:35</itunes:duration>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+  <channel>
+    <link>http://spepmedia.com</link>
+    <language>en-us</language>
+    <copyright>copyright 2014 SPEP Media</copyright>
+    <webMaster>webmaster@spepchurch.org(SPEP Webmaster)</webMaster>
+    <managingEditor>webmaster@spepchurch.org(SPEP Webmaster)</managingEditor>
+    <itunes:owner>
+      <itunes:name>SPEP Media Ministry</itunes:name>
+      <itunes:email>webmaster@spepchurch.org</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity" />
+    </itunes:category>
+    <itunes:keywords>spep, media, ministry, sermons, severna, park, pca, glenn, parkinson</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+    <atom:link href="http://podcast.spepmedia.com/goodNews.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 13 Feb 2014 23:31:42 EST</pubDate>
+    <title>Transforming Grace Good News Podcast</title>
+    <itunes:author>Severna Park EP Church</itunes:author>
+    <description>These are short gospel presentations that were made in years past. Severna Park EP Church is located in Pasadena MD. We are a PCA Church. Our website is http://spepchurch.org. Services happen at 9:30 and 11AM Sunday mornings. Links to internet feeds of our services can be found on our webpage.</description>
+    <itunes:summary>These are short gospel presentations that were made in years past. Severna Park EP Church is located in Pasadena MD. We are a PCA Church. Our website is http://spepchurch.org. Services happen at 9:30 and 11AM Sunday mornings. Links to internet feeds of our services can be found on our webpage.</itunes:summary>
+    <itunes:subtitle>These are short gospel presentations that were made in years past.</itunes:subtitle>
+    <lastBuildDate>Thu, 13 Feb 2014 23:31:42 EST</lastBuildDate>
+    <item>
+      <title></title>
+      <description></description>
+      <itunes:summary></itunes:summary>
+      <itunes:subtitle></itunes:subtitle>
+      <enclosure url="http://files.spepmedia.com/Legacy/Psalms/Good%20News/08-17-03_GN.mp3" type="audio/mpeg" length="159" />
+      <guid>http://files.spepmedia.com/Legacy/Psalms/Good%20News/08-17-03_GN.mp3</guid>
+      <itunes:duration>0:02:39</itunes:duration>
+    </item>
+    <item>
+      <title></title>
+      <description></description>
+      <itunes:summary></itunes:summary>
+      <itunes:subtitle></itunes:subtitle>
+      <enclosure url="http://files.spepmedia.com/Legacy/Psalms/Good%20News/08-10-03_GN.mp3" type="audio/mpeg" length="169" />
+      <guid>http://files.spepmedia.com/Legacy/Psalms/Good%20News/08-10-03_GN.mp3</guid>
+      <itunes:duration>0:02:49</itunes:duration>
+    </item>
+    <item>
+      <title></title>
+      <description></description>
+      <itunes:summary></itunes:summary>
+      <itunes:subtitle></itunes:subtitle>
+      <enclosure url="http://files.spepmedia.com/Legacy/Psalms/Good%20News/08-03-03_GN.mp3" type="audio/mpeg" length="153" />
+      <guid>http://files.spepmedia.com/Legacy/Psalms/Good%20News/08-03-03_GN.mp3</guid>
+      <itunes:duration>0:02:33</itunes:duration>
+    </item>
+    <item>
+      <title></title>
+      <description></description>
+      <itunes:summary></itunes:summary>
+      <itunes:subtitle></itunes:subtitle>
+      <enclosure url="http://files.spepmedia.com/Legacy/Psalms/Good%20News/07-27-03_GN.mp3" type="audio/mpeg" length="187" />
+      <guid>http://files.spepmedia.com/Legacy/Psalms/Good%20News/07-27-03_GN.mp3</guid>
+      <itunes:duration>0:03:07</itunes:duration>
+    </item>
+    <item>
+      <title></title>
+      <description></description>
+      <itunes:summary></itunes:summary>
+      <itunes:subtitle></itunes:subtitle>
+      <enclosure url="http://files.spepmedia.com/Legacy/Psalms/Good%20News/07-20-03_GN.mp3" type="audio/mpeg" length="159" />
+      <guid>http://files.spepmedia.com/Legacy/Psalms/Good%20News/07-20-03_GN.mp3</guid>
+      <itunes:duration>0:02:39</itunes:duration>
+    </item>
+    <item>
+      <title></title>
+      <description></description>
+      <itunes:summary></itunes:summary>
+      <itunes:subtitle></itunes:subtitle>
+      <enclosure url="http://files.spepmedia.com/Legacy/Psalms/Good%20News/07-13-03_GN.mp3" type="audio/mpeg" length="152" />
+      <guid>http://files.spepmedia.com/Legacy/Psalms/Good%20News/07-13-03_GN.mp3</guid>
+      <itunes:duration>0:02:32</itunes:duration>
+    </item>
+    <item>
+      <title></title>
+      <description></description>
+      <itunes:summary></itunes:summary>
+      <itunes:subtitle></itunes:subtitle>
+      <enclosure url="http://files.spepmedia.com/Legacy/Psalms/Good%20News/07-06-03_GN.mp3" type="audio/mpeg" length="113" />
+      <guid>http://files.spepmedia.com/Legacy/Psalms/Good%20News/07-06-03_GN.mp3</guid>
+      <itunes:duration>0:01:53</itunes:duration>
+    </item>
+    <item>
+      <title></title>
+      <description></description>
+      <itunes:summary></itunes:summary>
+      <itunes:subtitle></itunes:subtitle>
+      <enclosure url="http://files.spepmedia.com/Legacy/Psalms/Good%20News/06-29-03_GN.mp3" type="audio/mpeg" length="137" />
+      <guid>http://files.spepmedia.com/Legacy/Psalms/Good%20News/06-29-03_GN.mp3</guid>
+      <itunes:duration>0:02:17</itunes:duration>
+    </item>
+    <item>
+      <title></title>
+      <description></description>
+      <itunes:summary></itunes:summary>
+      <itunes:subtitle></itunes:subtitle>
+      <enclosure url="http://files.spepmedia.com/Legacy/Psalms/Good%20News/06-22-03_GN.mp3" type="audio/mpeg" length="156" />
+      <guid>http://files.spepmedia.com/Legacy/Psalms/Good%20News/06-22-03_GN.mp3</guid>
+      <itunes:duration>0:02:36</itunes:duration>
+    </item>
+  </channel>
+</rss>
