@@ -1,5 +1,7 @@
 <h1>Audio Stream</h1> 
 
+<?php include "../snow.php"; ?>
+
 <form action="//stream.spepmedia.com/submit.php" method="post" id="survey">
 <!-- <table border=0 cellpadding=4>
   <tr> 

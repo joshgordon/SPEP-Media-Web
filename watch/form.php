@@ -1,5 +1,7 @@
 <h1>Video Stream</h1> 
 
+<?php include "../snow.php"; ?>
+
 <form action="//stream.spepmedia.com/submit.php" method="post" id="survey">
 
 <!--

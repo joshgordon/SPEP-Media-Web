@@ -40,6 +40,7 @@ $redirect=False;
 if ($_POST['media'] == "watch")
 { 
   $redirect_url="http://www.ustream.tv/embed/11308704"; 
+  $redirect_url="//watch.spepmedia.com/watch.php";
   $redirect=True;
 } 
 else if ($_POST['media'] == "listen")

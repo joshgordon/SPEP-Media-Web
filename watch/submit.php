@@ -35,7 +35,7 @@ if($conn->query($sql) === false) {
 }
 if ($_POST['media'] == "watch")
 { 
-  $redirect_url="http://www.ustream.tv/embed/11308704"; 
+  $redirect_url="watch.php";
 } 
 else if ($_POST['media'] == "listen")
 {
