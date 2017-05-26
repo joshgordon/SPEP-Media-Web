@@ -5,7 +5,7 @@ require 'date'
 require 'geoip' 
 
 email = {
-    :to => ["josh@gordonclan.net", "craig.poland@me.com", "andrew@csicom.com", "dgordon@spepchurch.org", "josh@joshgordon.net"], 
+    :to => [], 
     :from => "spep.stream@joshgordon.net", 
     :from_alias => "SPEP Stream Info",  
     :subject => "SPEP Stream info for #{Date.today().to_s}"
