@@ -1,6 +1,6 @@
 
 <h1>Oops</h1>
-<p>Something's gone horribly wrong, click <a href="http://www.ustream.tv/embed/11308704">here</a> to watch, or <a href="http://72.81.132.9:8000/listen.m3u">here</a> to listen.</p> 
+<p>Something's gone horribly wrong, click <a href="https://watch.spepmedia.com/direct">here</a> to watch, or <a href="https://listen.spepmedia.com/direct">here</a> to listen.</p> 
 <?php
 //error_reporting(E_ALL);
 //ini_set('display_errors', '1');
@@ -40,12 +40,12 @@ $redirect=False;
 if ($_POST['media'] == "watch")
 { 
   $redirect_url="http://www.ustream.tv/embed/11308704"; 
-  $redirect_url="//watch.spepmedia.com/watch.php";
+  $redirect_url="//watch.spepmedia.com/direct";
   $redirect=True;
 } 
 else if ($_POST['media'] == "listen")
 {
-  $redirect_url="http://72.81.132.9:8000/listen.m3u"; 
+  $redirect_url="//listen.spepmedia.com/direct"; 
   $redirect=True; 
 } 
 if ($redirect)

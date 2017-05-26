@@ -1,0 +1,13 @@
+mysql> describe netusers;
++---------+---------------+------+-----+---------+----------------+
+| Field   | Type          | Null | Key | Default | Extra          |
++---------+---------------+------+-----+---------+----------------+
+| id      | int(11)       | NO   | PRI | NULL    | auto_increment |
+| ip      | varchar(15)   | YES  |     | NULL    |                |
+| viewers | int(11)       | YES  |     | NULL    |                |
+| comment | varchar(1024) | YES  |     | NULL    |                |
+| date    | varchar(25)   | YES  |     | NULL    |                |
+| media   | varchar(15)   | YES  |     | NULL    |                |
++---------+---------------+------+-----+---------+----------------+
+6 rows in set (0.00 sec)
+

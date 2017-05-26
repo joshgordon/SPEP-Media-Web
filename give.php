@@ -18,11 +18,11 @@ blockquote {
 }
 
 a:link { 
-  color: #D51566; 
+  color: #428bca; 
 }
 
 a:visited { 
-  color: #D51566; 
+  color: #428bca; 
 }
 
 </style>
